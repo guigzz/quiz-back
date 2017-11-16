@@ -22,6 +22,10 @@ switch($_SERVER['REQUEST_METHOD']) {
       case 'list-quizzes': // Get the full list of quizzes (id and title only)
         require_once(__DIR__ . '/actions/getListOfQuizzes.php');
         break;
+
+      case 'quiz': // Get one full quiz without the 'answer' field
+        require_once(__DIR__ . '/actions/getOneQuiz.php');
+        break;
       
       default: break;
     }
