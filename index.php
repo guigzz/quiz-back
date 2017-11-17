@@ -38,7 +38,7 @@ switch($_SERVER['REQUEST_METHOD']) {
    * POST requests
    **************************************/
   case 'POST' : 
-    // TODO
+    require_once(__DIR__ . '/actions/setQuizResults.php');
     break;
   default: break;
 }
