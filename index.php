@@ -11,6 +11,8 @@
  * Requests will be of type : http://mysite.com/?data=<name-of-data>
  */
 
+header("Access-Control-Allow-Origin: *");
+
 switch($_SERVER['REQUEST_METHOD']) {
 
   /***************************************
