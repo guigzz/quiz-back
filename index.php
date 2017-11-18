@@ -29,6 +29,9 @@ switch($_SERVER['REQUEST_METHOD']) {
         require_once(__DIR__ . '/actions/getOneQuiz.php');
         break;
       
+      case 'result': // Get one full result by its id
+        require_once(__DIR__ . '/actions/getOneResult.php');
+        break;
       default: break;
     }
     break;
