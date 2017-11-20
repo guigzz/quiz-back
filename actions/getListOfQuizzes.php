@@ -9,7 +9,7 @@ foreach($quizzes as $quiz) {
   $data[] = [
     "id"      => $quiz['id'],
     "title"   => $quiz['title'],
-    "length"  => count($quiz['questions']) //the number of questions in this quiz
+    "questions"  => count($quiz['questions']) //the number of questions in this quiz
   ];
 }
 
