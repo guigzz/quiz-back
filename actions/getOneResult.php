@@ -37,6 +37,7 @@ $goodAnswerCounter = 0;
 $comparedResult['id'] = $result['id'];
 $comparedResult['username'] = $result['username'];
 $comparedResult['quizId'] = $result['quizId'];
+$comparedResult['quizTitle'] = $quiz['title'];
 $comparedResult['answers'] = []; // to be filled below
 
 foreach($result['answers'] as $ans) {
