@@ -32,6 +32,12 @@ switch($_SERVER['REQUEST_METHOD']) {
       case 'result': // Get one full result by its id
         require_once(__DIR__ . '/actions/getOneResult.php');
         break;
+      case 'stats-exist': // Get one full result by its id
+        require_once(__DIR__ . '/actions/isStatsExisting.php');
+        break;
+      case 'stats': // Get one full result by its id
+        require_once(__DIR__ . '/actions/getStats.php');
+        break;
       default: break;
     }
     break;
