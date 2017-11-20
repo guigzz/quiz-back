@@ -39,7 +39,7 @@ foreach($allResults as $result) {
           "score" => $result['goodAnswerCounter'] . '/' . count($result['answers'])
         ]], // an array of results info
         "quizId"    => $result['quizId'],
-        "quizTitle" => $quizTitles[$result['quizId']]
+        "quizTitle" => $result['quizTitle']
       ];
     }
   }
