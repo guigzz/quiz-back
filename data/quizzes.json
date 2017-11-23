@@ -1,390 +1,652 @@
 [
   {
     "id": 1,
-    "title": "Title of Quiz 1",
+    "title": "Music, part I",
     "questions" : [
       {
         "number": 1,
-        "text": "This is question 1",
+        "text": "What did \"Weird Al\" Yankovic call his album that contained a parody of a song from Michael Jackson's album BAD?",
         "choices": [
           {
             "id": "a",
-            "text": "This is choice A"
+            "text": "Baddest"
           },
           {
             "id": "b",
-            "text": "This is choice B"
+            "text": "Even Worse"
           },
           {
             "id": "c",
-            "text": "This is choice C"
+            "text": "Badder"
           },
           {
             "id": "d",
-            "text": "This is choice D"
+            "text": "Good"
           }
         ],
         "answer": "b"
       },
       {
         "number": 2,
-        "text": "This is question 2",
+        "text": "What band leader was known as \"the King of Swing\"?",
         "choices": [
           {
             "id": "a",
-            "text": "This is choice A"
+            "text": "Tommy Dorsey"
           },
           {
             "id": "b",
-            "text": "This is choice B"
+            "text": "Benny Goodman"
           },
           {
             "id": "c",
-            "text": "This is choice C"
+            "text": "Guy Lombardo"
           },
           {
             "id": "d",
-            "text": "This is choice D"
+            "text": "Glenn Miller"
+          }
+        ],
+        "answer": "b"
+      },
+      {
+        "number": 3,
+        "text": "Which one of these four Australian terms can be found in the lyrics of the song \"Waltzing Matilda\" is a tree?",
+        "choices": [
+          {
+            "id": "a",
+            "text": "billabong"
+          },
+          {
+            "id": "b",
+            "text": "coolibah"
+          },
+          {
+            "id": "c",
+            "text": "jumbuck"
+          },
+          {
+            "id": "d",
+            "text": "tucker-bag"
+          }
+        ],
+        "answer": "b"
+      },
+      {
+        "number": 4,
+        "text": "Which of the following musicals was based on Thornton Wilder's comedy The Matchmaker?",
+        "choices": [
+          {
+            "id": "a",
+            "text": "Hello, Dolly!"
+          },
+          {
+            "id": "b",
+            "text": "The Music Man"
+          },
+          {
+            "id": "c",
+            "text": "Take Me Along"
+          },
+          {
+            "id": "d",
+            "text": "The Unsinkable Molly Brown"
           }
         ],
         "answer": "a"
       },
       {
-        "number": 3,
-        "text": "This is question 3",
+        "number": 5,
+        "text": "What symphony's last movement includes a setting of Schiller's poem \"Hymn to Joy\"?",
         "choices": [
           {
             "id": "a",
-            "text": "This is choice A"
+            "text": "Beethoven's Ninth"
           },
           {
             "id": "b",
-            "text": "This is choice B"
+            "text": "Bruckner's Eight"
           },
           {
             "id": "c",
-            "text": "This is choice C"
+            "text": "Mahler's Tenth"
           },
           {
             "id": "d",
-            "text": "This is choice D"
+            "text": "Mozart's 40th"
+          }
+        ],
+        "answer": "a"
+      },
+      {
+        "number": 6,
+        "text": "Gloria Estefan broke her back in what kind of accident?",
+        "choices": [
+          {
+            "id": "a",
+            "text": "She fell off a stage"
+          },
+          {
+            "id": "b",
+            "text": "She was in a helicopter crash"
+          },
+          {
+            "id": "c",
+            "text": "A tour bus accident"
           }
         ],
         "answer": "c"
       },
       {
-        "number": 4,
-        "text": "This is question 4",
+        "number": 7,
+        "text": "The lyrics \"By the time we got to Woodstock, we were half a million strong\" were written by whom?",
         "choices": [
           {
             "id": "a",
-            "text": "This is choice A"
+            "text": "Judy Collins"
           },
           {
             "id": "b",
-            "text": "This is choice B"
+            "text": "David Crosby"
           },
           {
             "id": "c",
-            "text": "This is choice C"
-          },
-          {
-            "id": "d",
-            "text": "This is choice D"
+            "text": "Joni Mitchell"
           }
         ],
-        "answer": "d"
+        "answer": "c"
+      },
+      {
+        "number": 8,
+        "text": "Raffi is known for writing and singing what?",
+        "choices": [
+          {
+            "id": "a",
+            "text": "children's songs"
+          },
+          {
+            "id": "b",
+            "text": "New Age Music"
+          },
+          {
+            "id": "c",
+            "text": "rap music"
+          }
+        ],
+        "answer": "b"
       }
     ]
   },
   {
     "id": 2,
-    "title": "Title of Quiz 2",
+    "title": "Music, part II",
     "questions" : [
       {
         "number": 1,
-        "text": "This is question 1",
+        "text": "What does Tosca throw from the roof of the prison at the end of the opera Tosca?",
         "choices": [
           {
             "id": "a",
-            "text": "This is choice A"
+            "text": "her handkerchief"
           },
           {
             "id": "b",
-            "text": "This is choice B"
+            "text": "her roses"
           },
           {
             "id": "c",
-            "text": "This is choice C"
-          },
-          {
-            "id": "d",
-            "text": "This is choice D"
+            "text": "herself"
           }
         ],
-        "answer": "b"
+        "answer": "c"
       },
       {
         "number": 2,
-        "text": "This is question 2",
+        "text": "What does Don Giovanni descend into at the end of the opera Don Giovanni?",
         "choices": [
           {
             "id": "a",
-            "text": "This is choice A"
+            "text": "hell"
           },
           {
             "id": "b",
-            "text": "This is choice B"
+            "text": "insanity"
           },
           {
             "id": "c",
-            "text": "This is choice C"
-          },
-          {
-            "id": "d",
-            "text": "This is choice D"
+            "text": "prison"
           }
         ],
         "answer": "a"
       },
       {
         "number": 3,
-        "text": "This is question 3",
+        "text": "The sonnet that starts out \"The world is charged with the grandeur of God\" was written by whom?",
         "choices": [
           {
             "id": "a",
-            "text": "This is choice A"
+            "text": "Gerard Manley Hopkins"
           },
           {
             "id": "b",
-            "text": "This is choice B"
+            "text": "Henry Wadsworth Longfellow"
           },
           {
             "id": "c",
-            "text": "This is choice C"
+            "text": "Alfred, Lord Tennyson"
           },
           {
             "id": "d",
-            "text": "This is choice D"
+            "text": "Oscar Wilde"
+          }
+        ],
+        "answer": "a"
+      },
+      {
+        "number": 4,
+        "text": "\"A wandering minstrel \" and \"Titwillow\" are songs contained in which comic opera by Gilbert and Sullivan?",
+        "choices": [
+          {
+            "id": "a",
+            "text": "The Gondoliers"
+          },
+          {
+            "id": "b",
+            "text": "The Mikado "
+          },
+          {
+            "id": "c",
+            "text": "H.M.S. Pinafore"
+          },
+          {
+            "id": "d",
+            "text": "The Pirates of Penzance"
+          }
+        ],
+        "answer": "b"
+      },
+      {
+        "number": 5,
+        "text": "In music, which of the following are \"accidentals\"?",
+        "choices": [
+          {
+            "id": "a",
+            "text": "finger cymbals and castanets"
+          },
+          {
+            "id": "b",
+            "text": "mistakes made while playing"
+          },
+          {
+            "id": "c",
+            "text": "sharps and flats"
           }
         ],
         "answer": "c"
       },
       {
-        "number": 4,
-        "text": "This is question 4",
+        "number": 6,
+        "text": "In the Opera Faust, Faust wins Marguerite's love with what?",
         "choices": [
           {
             "id": "a",
-            "text": "This is choice A"
+            "text": "candy"
           },
           {
             "id": "b",
-            "text": "This is choice B"
+            "text": "jewelry"
           },
           {
             "id": "c",
-            "text": "This is choice C"
-          },
-          {
-            "id": "d",
-            "text": "This is choice D"
+            "text": "roses"
           }
         ],
-        "answer": "d"
+        "answer": "b"
       }
     ]
   },
   {
     "id": 3,
-    "title": "Title of Quiz 3",
+    "title": "Movies, part I",
     "questions" : [
       {
         "number": 1,
-        "text": "This is question 1",
+        "text": "The Moon of Barods, a diamond that Marilyn Monroe wore when singing \"Diamonds Are A Girl's Best Friend\" in the film Gentlemen prefer Blondes, was auctioned off at Christies for how much in 1990?",
         "choices": [
           {
             "id": "a",
-            "text": "This is choice A"
+            "text": "$97,000"
           },
           {
             "id": "b",
-            "text": "This is choice B"
+            "text": "$297,000"
           },
           {
             "id": "c",
-            "text": "This is choice C"
+            "text": "$497,000"
           },
           {
             "id": "d",
-            "text": "This is choice D"
+            "text": "$797,000"
           }
         ],
         "answer": "b"
       },
       {
         "number": 2,
-        "text": "This is question 2",
+        "text": "Which one of these Academy Awards did Gone With the Wind not win?",
         "choices": [
           {
             "id": "a",
-            "text": "This is choice A"
+            "text": "best actor"
           },
           {
             "id": "b",
-            "text": "This is choice B"
+            "text": "best actress"
           },
           {
             "id": "c",
-            "text": "This is choice C"
+            "text": "best picture"
           },
           {
             "id": "d",
-            "text": "This is choice D"
+            "text": "best supporting actor"
           }
         ],
         "answer": "a"
       },
       {
         "number": 3,
-        "text": "This is question 3",
+        "text": "Which one of these talented actors did not star in the 1989 movie \"Family Business\"?",
         "choices": [
           {
             "id": "a",
-            "text": "This is choice A"
+            "text": "Sean Connery"
           },
           {
             "id": "b",
-            "text": "This is choice B"
+            "text": "Matthew Broderick"
           },
           {
             "id": "c",
-            "text": "This is choice C"
+            "text": "Dustin Hoffman"
           },
           {
             "id": "d",
-            "text": "This is choice D"
+            "text": "Tom Cruise "
+          }
+        ],
+        "answer": "d"
+      },
+      {
+        "number": 4,
+        "text": "In the 1933 movie where May West spoke the line \"Come up and see me sometime\", called She Done Him Wrong, who was her co-star?",
+        "choices": [
+          {
+            "id": "a",
+            "text": "W.C. Fields"
+          },
+          {
+            "id": "b",
+            "text": "Cary Grant"
+          },
+          {
+            "id": "c",
+            "text": "James Stewart"
+          },
+          {
+            "id": "d",
+            "text": "John Wayne"
+          }
+        ],
+        "answer": "b"
+      },
+      {
+        "number": 5,
+        "text": "Clint Eastwood gave us the immortal line, \"Go ahead... make my day\", in what film?",
+        "choices": [
+          {
+            "id": "a",
+            "text": "Dirty Harry"
+          },
+          {
+            "id": "b",
+            "text": "Magnum Force"
+          },
+          {
+            "id": "c",
+            "text": "Sudden Impact"
+          },
+          {
+            "id": "d",
+            "text": "Tightrope"
+          }
+        ],
+        "answer": "a"
+      },
+      {
+        "number": 6,
+        "text": "In the 1951 science fiction movie, The Day The Earth Stood Still, what was the name of the robot?",
+        "choices": [
+          {
+            "id": "a",
+            "text": "Gort"
+          },
+          {
+            "id": "b",
+            "text": "Klaatu"
+          },
+          {
+            "id": "c",
+            "text": "Robby"
+          }
+        ],
+        "answer": "a"
+      },
+      {
+        "number": 7,
+        "text": "Jack Walsh and Jonathan Mardukas  are the names of the two main characters in what movie?",
+        "choices": [
+          {
+            "id": "a",
+            "text": "Midnight Cowboy"
+          },
+          {
+            "id": "b",
+            "text": "Midnight Express"
+          },
+          {
+            "id": "c",
+            "text": "Midnight Run"
           }
         ],
         "answer": "c"
       },
       {
-        "number": 4,
-        "text": "This is question 4",
+        "number": 8,
+        "text": "What is the film crew's chief electrician called?",
         "choices": [
           {
             "id": "a",
-            "text": "This is choice A"
+            "text": "big L"
           },
           {
             "id": "b",
-            "text": "This is choice B"
+            "text": "gaffer"
           },
           {
             "id": "c",
-            "text": "This is choice C"
-          },
-          {
-            "id": "d",
-            "text": "This is choice D"
+            "text": "sparks"
           }
         ],
-        "answer": "d"
+        "answer": "b"
+      },
+      {
+        "number": 9,
+        "text": "After winning the 1988 Oscar, who said \"I never thought I'd have a nomination... I never thought anybody ever took any of my pictures seriously\"?",
+        "choices": [
+          {
+            "id": "a",
+            "text": "Cher"
+          },
+          {
+            "id": "b",
+            "text": "Jodie Foster"
+          },
+          {
+            "id": "c",
+            "text": "Shirley Maclaine"
+          }
+        ],
+        "answer": "b"
+      },
+      {
+        "number": 10,
+        "text": "In the 1946 movie \"The She-Wolf of London\", who played the title role?",
+        "choices": [
+          {
+            "id": "a",
+            "text": "Eva Gabor"
+          },
+          {
+            "id": "b",
+            "text": "Boris Karloff"
+          },
+          {
+            "id": "c",
+            "text": "June Lockhart"
+          }
+        ],
+        "answer": "c"
       }
     ]
   },
   {
     "id": 4,
-    "title": "Title of Quiz 4",
+    "title": "Movies, part II",
     "questions" : [
       {
         "number": 1,
-        "text": "This is question 1",
+        "text": "In the Dirty Harry movies starring Clint Eastwood as Dirty Harry, what was Harry's last name?",
         "choices": [
           {
             "id": "a",
-            "text": "This is choice A"
+            "text": "Callahan"
           },
           {
             "id": "b",
-            "text": "This is choice B"
+            "text": "Flint"
           },
           {
             "id": "c",
-            "text": "This is choice C"
+            "text": "Harrigan"
           },
           {
             "id": "d",
-            "text": "This is choice D"
+            "text": "Steele"
           }
         ],
-        "answer": "b"
+        "answer": "a"
       },
       {
         "number": 2,
-        "text": "This is question 2",
+        "text": "Blondie's \"Call Me\" , a number one hit for her, was the theme song of which film?",
         "choices": [
           {
             "id": "a",
-            "text": "This is choice A"
+            "text": "American Gigolo"
           },
           {
             "id": "b",
-            "text": "This is choice B"
+            "text": "An Officer and a Gentleman"
           },
           {
             "id": "c",
-            "text": "This is choice C"
-          },
-          {
-            "id": "d",
-            "text": "This is choice D"
+            "text": "Sorry, Wrong Number"
           }
         ],
         "answer": "a"
       },
       {
         "number": 3,
-        "text": "This is question 3",
+        "text": "How much of his own money did Francis Ford Coppola put up to finish the movie  \"Apocalypse Now\" when it ran wildly over budget?",
         "choices": [
           {
             "id": "a",
-            "text": "This is choice A"
+            "text": "$1 million"
           },
           {
             "id": "b",
-            "text": "This is choice B"
+            "text": "$6 million"
           },
           {
             "id": "c",
-            "text": "This is choice C"
+            "text": "$16 million"
           },
           {
             "id": "d",
-            "text": "This is choice D"
+            "text": "$25 million"
           }
         ],
         "answer": "c"
       },
       {
         "number": 4,
-        "text": "This is question 4",
+        "text": "What was the name of the last movie that John Wayne appeared in?",
         "choices": [
           {
             "id": "a",
-            "text": "This is choice A"
+            "text": "The Green Berets"
           },
           {
             "id": "b",
-            "text": "This is choice B"
+            "text": "The Shootist"
           },
           {
             "id": "c",
-            "text": "This is choice C"
+            "text": "True Grit"
+          }
+        ],
+        "answer": "b"
+      },
+      {
+        "number": 5,
+        "text": "In the Friday the 13th movies, what is the name of the masked killer?",
+        "choices": [
+          {
+            "id": "a",
+            "text": "Freddy"
+          },
+          {
+            "id": "b",
+            "text": "Jason"
+          },
+          {
+            "id": "c",
+            "text": "He has no name"
+          }
+        ],
+        "answer": "b"
+      },
+      {
+        "number": 6,
+        "text": "What  1987 film was based on a novel called The Short Timers by Gustav Hasford?",
+        "choices": [
+          {
+            "id": "a",
+            "text": "Angel Heart"
+          },
+          {
+            "id": "b",
+            "text": "Broadcast News"
+          },
+          {
+            "id": "c",
+            "text": "Fatal Attraction"
           },
           {
             "id": "d",
-            "text": "This is choice D"
+            "text": "Full Metal Jacket"
           }
         ],
         "answer": "d"
